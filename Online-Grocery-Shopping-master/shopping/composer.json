@@ -1,0 +1,17 @@
+{
+    "name": "jadha/shopping",
+    "autoload": {
+        "psr-4": {
+            "Jadha\\Shopping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahesh9359",
+            "email": "maheshjadhav9359@gmail.com"
+        }
+    ],
+    "require": {
+        "razorpay/razorpay": "^2.9"
+    }
+}
